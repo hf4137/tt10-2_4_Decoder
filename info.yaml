@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "2-4 Deocder"      # Project title
-  author:       "James Maurer"      # Your name
+  author:       "James"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "This design demonstrates the data flow behavior and description of 2 to 4 decoder" # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
